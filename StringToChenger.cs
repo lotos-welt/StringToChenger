@@ -1,16 +1,18 @@
-﻿/*!
- * 文字列変換クラス.
- * 
- * @file	StringToChenger.cs
- * @author	Lotos
- * @date	2015-11-01 17:23
- */
+﻿/************************************************
+StringToChenger.cs
+
+Copyright (c) 2016 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
 
 using UnityEngine;
 using System.Collections;
 using System.Globalization;
 using System.Text.RegularExpressions;
 
+/* 文字列変換クラス. */
 public class StringToChenger : MonoBehaviour {
 
     /// <summary>
